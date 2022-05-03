@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Encode+Sans+Condensed:wght@300&family=Lobster+Two:wght@700&family=Pragati+Narrow&family=Press+Start+2P&display=swap');
+
+* {
+    padding: 0.5em;
+    margin: 0.5em;
+    box-sizing: border-box;
+    font-family: Dosis;
+}
